@@ -1,4 +1,4 @@
-## Olá! Sou o André Machado!
+## Bem-Vindo!
  <div>
   <a href="https://github.com/machado1011">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=machado1011&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
